@@ -26,4 +26,8 @@
     color: white;
   }
 
-  h1{color: #ddd;}
+  h1{color: #ddd;
+    text-align: center;}
+
+    h2 {color: #ddd;
+    text-align: center;}
