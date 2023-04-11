@@ -66,6 +66,10 @@ footer .media-link {
       text-align: center;
     }
 
-    @media (min-width:1680px) and (max-width:1050px)
+    @media (min-width:414px) and (max-width:896px){
+      body{
+        background-color: darkred;
+      }
+    }
 
-           (min-width: 320px) and (max-width: 480px) 
+           
