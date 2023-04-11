@@ -65,3 +65,7 @@ footer .media-link {
     p {
       text-align: center;
     }
+
+    @media (min-width:1680px) and (max-width:1050px)
+
+           (min-width: 320px) and (max-width: 480px) 
